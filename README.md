@@ -1,2 +1,3 @@
 # Odin-recipes
 Repository for my first project from TOP
+For this current project, I will be employing the skills and knowledge I have acquired within the first section of the Foundations pathway on The Odin Project. While I've done guided code alongs on free code camp, this will be the first project I'll be creating by hand. With the preparation and knowledge I've gained during my studies, I still expect this endeavor to be a grand learning experience. I am excited to practice the practical applications of my HTML knoweledge and am excited to see where this will go. 
